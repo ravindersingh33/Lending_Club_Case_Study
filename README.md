@@ -2,9 +2,9 @@
 > Lending Club Case study.
 
 ## General Information
-- To idenitfy driven factors for Charged-off loans.
+- To idenitfy driving factors for Charged-off loans.
 - Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface
-- lending loans to ‘risky’ applicants who are not willing to pay back the loan amount or charged-off borrowers.
+- lending loans to â€˜riskyâ€™ applicants who are not willing to pay back the loan amount or charged-off borrowers.
 - loan details of borrowers byLending Club.
 
 
@@ -15,7 +15,7 @@
 
 - Loans with Grades like E,F,G are more likely to be charged-off.
 
-- purpose of small business has highest percentage of loan charged -off.
+- purpose ofÂ small businessÂ has highest percentage of loan charged -off.
 
 
 - Maximum number of loans are charged- off for borrower with 10+ years of experience.
