@@ -1,52 +1,38 @@
 # Project Name
-> Outline a brief description of your project.
-
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+> Lending Club Case study.
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- To idenitfy driven factors for Charged-off loans.
+- Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface
+- lending loans to ‘risky’ applicants who are not willing to pay back the loan amount or charged-off borrowers.
+- loan details of borrowers byLending Club.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Percentage Charged off is high for high rate of interest rate. for interest rate 15 and above have highest charged off percentage
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Lesser is the Annual income, higher is the probability of charged-off loans
+
+- Loans with Grades like E,F,G are more likely to be charged-off.
+
+- purpose of small business has highest percentage of loan charged -off.
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Maximum number of loans are charged- off for borrower with 10+ years of experience.
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- Maximum number of loans are charged-off where verification status is verified.
+
+
+- Interest rate are higher for the loan term 60 months which is contributing major chunk of defaulters.
+
+
+- Major loan defaulters are from state of NV in terms of percentage charged off and CA in terms of total number of charged off loans.
+
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Ravinder SIngh and Vijay Mulani
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
